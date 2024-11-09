@@ -1,5 +1,5 @@
 
-// Given an array arr[]. The task is to find the largest element and return it.
+// Given an unsorted array arr[]. The task is to find the largest element and return it.
 
 // Input: 3
 // 20
